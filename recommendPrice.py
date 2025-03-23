@@ -117,7 +117,7 @@ def recommend(name,hold_year=0,leave_year=4,integrity=1):
     recommend_price = final_price(average_price1,hold_year,leave_year,integrity)
     return recommend_price
     
-
+print('i am in the GitHub hhhhhhh.')
 
 
 
